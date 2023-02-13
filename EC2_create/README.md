@@ -1,1 +1,1 @@
-# Simple bastion servers with elastic IP
+# EC2 with elastic IP
