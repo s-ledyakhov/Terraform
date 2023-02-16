@@ -6,7 +6,7 @@ terraform {
     }
   }
   backend "s3" {
-    bucket = "terraform-tfstate-bastion"
+    bucket = "terraform-tfstate"
     region = "us-east-1"
     key = "prod/network"
   }
